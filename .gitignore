@@ -8,6 +8,7 @@
 build/
 env
 /staticfiles/
+/.vscode/
 
 #src
 *.sqlite*
